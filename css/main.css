@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 95vw;
+}
+.container nav {
+  background-color: orangered;
+}
+
+/*# sourceMappingURL=main.css.map */
